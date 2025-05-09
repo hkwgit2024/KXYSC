@@ -1,6 +1,14 @@
 {
     "classes": [
         {
+            "type_name": "楚剧",
+            "type_id": "楚剧超清"
+        },
+        {
+            "type_name": "黄梅戏",
+            "type_id": "黄梅戏超清"
+        },
+        {
             "type_name": "潮剧全剧",
             "type_id": "潮剧全剧超清"
         },
@@ -25,16 +33,8 @@
             "type_id": "吕剧超清"
         },
         {
-            "type_name": "楚剧",
-            "type_id": "楚剧超清"
-        },
-        {
             "type_name": "歌仔戏",
             "type_id": "歌仔戏超清"
-        },
-        {
-            "type_name": "黄梅戏",
-            "type_id": "黄梅戏超清"
         },
         {
             "type_name": "评剧",
