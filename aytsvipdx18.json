@@ -1,5 +1,5 @@
 {
-       "spider": "https://raw.kkgithub.com/wlcmc1972/tvbox/main/jar/custom_spider.jar",
+       "spider": "./jar/custom_spider.jar",
        "lives": [{"name": "在线live1","type": 0,"url": "https://raw.kkgithub.com/wlcmc1972/tvbox/main/tv/live1.txt","epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo": "https://live.fanmingming.cn/tv/{name}.png"}],
  
       "sites": [
